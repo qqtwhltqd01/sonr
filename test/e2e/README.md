@@ -229,3 +229,4 @@ This E2E framework replaces the previous InterchainTest-based tests with:
 - **Easier debugging**: Standard HTTP debugging tools and logs
 
 The test assertions and coverage remain identical to ensure no regression in test quality.
+<!-- Auto-update: 2025-10-18T11:33:59.760306 -->
